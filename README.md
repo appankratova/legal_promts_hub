@@ -337,7 +337,7 @@ _______________________________________________________
 
 **Сделаем Legal AI честным и открытым вместе!** 🚀
 
-[![Star on GitHub](https://img.shields.io/github/stars/appankratova/legal-prompts-hub?style=social)](https://github.com/appankratova/legal-prompts-hub)
+[![Star on GitHub](https://img.shields.io/github/stars/appankratova/legal_prompts_hub?style=social)](https://github.com/appankratova/legal_prompts_hub)
 
 Звезда ⭐ этому репозиторию, если поддерживаете нашу миссию
 
